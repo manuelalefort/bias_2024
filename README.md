@@ -44,13 +44,6 @@ For analytical clarity, **bias in society** and **bias in data processing and al
 
 ---
 
-## Database
-
-The database used for this analysis is available here:  
-[Download bias_2024_db.csv](./bias_2024_db.csv)
-
----
-
 ## Reference
 
 [1] Blanchard, A., & Bruun, L. (2024). *Bias in Military Artificial Intelligence: A Typology of Sources*. Stockholm International Peace Research Institute. Available at: https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence
