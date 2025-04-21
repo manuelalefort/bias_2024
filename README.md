@@ -11,13 +11,13 @@ For any questions, you may reach me at **manuela.lefort@interagency.institute**
 
 ---
 
-## 🧭 Methodology
+## Methodology
 
 From a database generated for our previous project containing all the discussions on the GGE on LAWS, we created a subcorpus based on a key-word list that would incorporate terms related to bias.
 
 ---
 
-## 🔍 Keywords to Identify Statements on Bias
+## Keywords to Identify Statements on Bias
 
 `bias`, `societ*`, `existing`, `histor*`, `selection`,  
 `program`, `develop`, `train`, `design`, `process`, `model`, `label`, `algorithm`, `divers*`,  
@@ -25,7 +25,7 @@ From a database generated for our previous project containing all the discussion
 
 ---
 
-## 🎯 Analytical Framework
+## Analytical Framework
 
 Our objective is to understand how states addressed the issue of bias in military AI during the 2024 CCW discussions. For this end, we used the framework for the different typologies of bias in military AI systems proposed by Blanchard, A., & Bruun, L. (2024) [1]. The keywords were also selected based on the explanations of each typology given in their paper.
 
@@ -35,15 +35,15 @@ For analytical clarity, **bias in society** and **bias in data processing and al
 
 ---
 
-## 🗂️ Typology Table
+## Typology Table
 
 | Typology           | Keywords                                                                 |
 |--------------------|--------------------------------------------------------------------------|
-| **TIP 1+2**         | `bias`, `societ*`, `existing`, `histor*`, `selection`,<br>`program`, `develop`, `train`, `design`, `process`, `model`, `label`, `algorithm`, `divers*`,<br>`rac*`, `gender`, `discriminat*` |
-| **TIP 3**           | `automat*`, `cognitive`, `user`, `deploy`, `interact`                   |
+| **TIP 1+2**         | bias, societ*, existing, histor*, selection, program, develop, train, design, process, model, label, algorithm, divers*, rac*, gender, discriminat* |
+| **TIP 3**           | automat*, cognitive, user, deploy, interact                             |
 
 ---
 
-## 📚 Reference
+## Reference
 
 \[1\] Blanchard, A., & Bruun, L. (2024). *Bias in Military Artificial Intelligence: A Typology of Sources*. Stockholm International Peace Research Institute.
