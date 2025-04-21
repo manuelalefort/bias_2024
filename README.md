@@ -37,10 +37,10 @@ For analytical clarity, **bias in society** and **bias in data processing and al
 
 ## Typology Table
 
-| Typology           | Keywords                                                                 |
-|--------------------|--------------------------------------------------------------------------|
-| **TIP 1+2**         | bias, societ*, existing, histor*, selection, program, develop, train, design, process, model, label, algorithm, divers*, rac*, gender, discriminat* |
-| **TIP 3**           | automat*, cognitive, user, deploy, interact                             |
+| Typology                                           | Keywords                                                                 |
+|----------------------------------------------------|--------------------------------------------------------------------------|
+| **Bias in society and in data processing and development** | bias, societ*, existing, histor*, selection, program, develop, train, design, process, model, label, algorithm, divers*, rac*, gender, discriminat* |
+| **Bias in use**                                    | automat*, cognitive, user, deploy, interact                              |
 
 ---
 
