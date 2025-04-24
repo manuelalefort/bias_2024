@@ -4,7 +4,7 @@ This project seeks to map the way states addressed the issue of bias in Autonomo
 
 It is part of a wider project conducted by the [InterAgency Institute](https://interagency.institute/) that seeks to inform delegations in both Geneva and New York with more granularity in threshold concepts of the policy debate over AWS, focusing on International Security and Ethics. This project is financed by Stop Killer Robots.
 
-In this GitHub page, we make available a detailed explanation of our methodology to support our findings on the bias debate, and also the database used, as a CSV (comma-separated values) file. We hope our work will lead to a more granular understanding of the discussions on the GGE and beyond.
+In this GitHub page, we make available a detailed explanation of our methodology to support our findings on the bias debate, and also [the database used](https://github.com/manuelalefort/bias_2024/blob/main/bias_2024_db.csv), as a CSV (comma-separated values) file. We hope our work will lead to a more granular understanding of the discussions on the GGE and beyond.
 
 For any questions, you may reach me at **manuela.lefort@interagency.institute**
 
@@ -44,6 +44,15 @@ For analytical clarity, **bias in society** and **bias in data processing and al
 
 ---
 
+## Database
+
+The full coded corpus is available here:  
+[Download bias_2024_db.csv](https://github.com/manuelalefort/bias_2024/blob/main/bias_2024_db.csv)
+
+Note: Due to GitHub’s display limitations, we recommend opening the CSV in Excel or Google Sheets for better readability.
+
+---
+
 ## Reference
 
 [1] Blanchard, A., & Bruun, L. (2024). *Bias in Military Artificial Intelligence: A Typology of Sources*. Stockholm International Peace Research Institute. Available at: https://www.sipri.org/publications/2024/sipri-background-papers/bias-military-artificial-intelligence
@@ -55,6 +64,10 @@ For analytical clarity, **bias in society** and **bias in data processing and al
 Copyright (c) 2025 InterAgency Institute
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
